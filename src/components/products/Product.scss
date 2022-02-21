@@ -1,0 +1,16 @@
+.products-wrapper{
+    margin: 20px;
+    header{
+        display: flex;
+        justify-content: space-between;
+        height: 50px;
+        padding-bottom: 10px;
+        .open-btn{
+            width: 90px;
+            height: 45px;
+            border-radius: 5px;
+            border: solid 1px black;
+        }
+    }
+   
+}
